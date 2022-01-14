@@ -138,49 +138,42 @@
   ],
   "users": [
     {
-      "id": 1,
-      "firstName": "sheriff",
-      "surname": "falana",
-      "otherName": "olatunji",
-      "email": "falanasheriffdeen@gmail.com",
-      "password": "phalana20",
-      "confirmPassword": "phalana20"
+      "id": 8469,
+      "firstName": "mateo",
+      "surname": "kovacic",
+      "email": "kovacic@yahoo.com",
+      "password": "kkkk"
     },
     {
-      "id": 2,
-      "firstName": "zainab",
+      "id": 6644,
+      "firstName": "hammed",
       "surname": "falana",
-      "otherName": "oyedamola",
-      "email": "falanazainab@gmail.com",
-      "password": "oyedamola",
-      "confirmPassword": "oyedamola"
+      "email": "adisahammed@gmail.com",
+      "password": "phalana"
     },
     {
-      "id": 141,
+      "id": 2241,
       "firstName": "falana",
-      "surname": "hammed",
-      "otherName": "adisa",
-      "email": "adisahammed@gmail.com",
-      "password": "aaa",
-      "confirmPassword": "aaa"
+      "surname": "sheriff",
+      "email": "sheriff@gmail.com",
+      "password": "sheriff"
     },
     {
-      "id": 667,
-      "firstName": "risikat",
-      "surname": "falana",
-      "otherName": "bola",
-      "email": "adisahammed@gmail.com",
-      "password": "qqqq",
-      "confirmPassword": "qqqq"
-    },
+      "id": 4210,
+      "firstName": "falana",
+      "surname": "zainab",
+      "email": "falanazaynab@yahoo.com",
+      "password": "zaynab"
+    }
+  ],
+  "customerOrders": [
+    {},
     {
-      "id": 243,
-      "firstName": "christian",
-      "surname": "pulisic",
-      "otherName": "chris",
-      "email": "christian@pulisic.com",
-      "password": "lllld",
-      "confirmPassword": "lllld"
+      "id": 391,
+      "customer": "hammed falana",
+      "quantity": "1 yards",
+      "productName": "Mix n' match",
+      "productPrice": 2500
     }
   ]
 }
